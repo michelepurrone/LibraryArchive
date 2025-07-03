@@ -5,8 +5,8 @@ Si tratta di una libraria online dotata delle principali caratteristiche delle m
 
 Comprende:
 
-•gestione di un database (vengono usati MySQL e AWS Relational Database Service);
+• gestione di un database (vengono usati MySQL e AWS Relational Database Service);
 
-•backend (sviluppato in Java utilizzando il framework Spring e integrato con il servizio AWS Elastic Beanstalk);
+• backend (sviluppato in Java utilizzando il framework Spring e integrato con il servizio AWS Elastic Beanstalk);
 
-•frontend (sviluppato in TypeScript e HTML usando il framework React e integrato con il servizio AWS Amplify).
+• frontend (sviluppato in TypeScript e HTML usando il framework React e integrato con il servizio AWS Amplify).
